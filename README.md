@@ -1,1 +1,1 @@
-# 2048 game written in python, tkn.py is the main program.
+# 2048 game bot implementing Reinforcement Learning, written in Python
